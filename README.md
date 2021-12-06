@@ -1,5 +1,4 @@
-<h1>Mock Universal Menu</h1>
-
+# Mock Universal Menu
 <p align="center">
   <n>Mock Universal Menu is a Gnome-Shell extension that creates... well, a mock universal menu in the top bar.  
 It looks a little something like this:</n><br>
