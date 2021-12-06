@@ -8,3 +8,11 @@ It looks a little something like this:
 
 
 **You don't need the LICENSE and README if you install from the repository**
+
+
+# Bug Fix
+
+Fixed: Menu in wrong place after wake from suspend
+
+
+If there are any more bugs, let me know in the Issues tab.
