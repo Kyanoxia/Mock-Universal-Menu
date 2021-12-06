@@ -1,6 +1,5 @@
-# Mock Universal Menu
-
 <p align="center">
+  <head>Mock Universal Menu</head><br>
   <n>Mock Universal Menu is a Gnome-Shell extension that creates... well, a mock universal menu in the top bar.  
 It looks a little something like this:</n><br>
   <img src="https://extensions.gnome.org/extension-data/screenshots/screenshot_4111_SJLlCtx.png"> 
