@@ -4,7 +4,7 @@ It looks a little something like this:
 
 <img src="https://extensions.gnome.org/extension-data/screenshots/screenshot_4111_SJLlCtx.png">
 <p align="center">
-  <img src="https://extensions.gnome.org/extension-data/screenshots/screenshot_4111_SJL1Ctx.png">
+  <img src="https://extensions.gnome.org/extension-data/screenshots/screenshot_4111_SJLlCtx.png">
  </p>
 [<img src="https://micheleg.github.io/dash-to-dock/media/get-it-on-ego.png" height="100">](https://extensions.gnome.org/extension/4111/mock-universal-menu/)
 
