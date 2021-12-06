@@ -23,7 +23,7 @@ It looks a little something like this:</n><br>
 
 # Bug Fix
 
-Fixed: Menu in wrong place after wake from suspend
+Fixed: Menu in wrong place after wake from suspend [Huge thanks to PRATAP (PRATAP-KUMAR), who has helped me with lots on my Ubuntu journey]
 
 
 If there are any more bugs, let me know in the Issues tab.
