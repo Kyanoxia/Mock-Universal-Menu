@@ -21,9 +21,6 @@ It looks a little something like this:</n><br>
 
 </p>
 
-**You don't need the LICENSE and README if you install from the repository**
-
-
 # Bug Fix
 
 Fixed: Menu in wrong place after wake from suspend
