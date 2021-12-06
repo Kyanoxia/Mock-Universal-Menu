@@ -5,7 +5,7 @@
 It looks a little something like this:</n><br>
   <img src="https://extensions.gnome.org/extension-data/screenshots/screenshot_4111_SJLlCtx.png"> 
   <a href="https://extensions.gnome.org/extension/4111/mock-universal-menu/"
-    <img src="https://micheleg.github.io/dash-to-dock/media/get-it-on-ego.png" height="100">(https://extensions.gnome.org/extension/4111/mock-universal-menu/)
+    <img src="https://micheleg.github.io/dash-to-dock/media/get-it-on-ego.png" height="100">
   </a>
 
 </p>
