@@ -10,7 +10,7 @@ It looks a little something like this:</n><br>
   <a href="https://extensions.gnome.org/extension/4111/mock-universal-menu/">
     <img src="https://micheleg.github.io/dash-to-dock/media/get-it-on-ego.png" height="100">
   </a>
-  <br>
+  <br><br><br>
   <b>Mock Universal Menu looks best with the WhiteSur GTK Themes.<br>You can get them here:</b>
   <br>
   <a href="https://github.com/vinceliuice/WhiteSur-gtk-theme">
