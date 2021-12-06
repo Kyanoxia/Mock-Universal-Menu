@@ -8,15 +8,14 @@ It looks a little something like this:</n><br>
   <a href="https://extensions.gnome.org/extension/4111/mock-universal-menu/">
     <img src="https://micheleg.github.io/dash-to-dock/media/get-it-on-ego.png" height="100">
   </a>
+  <br>
   <n>Mock Universal Menu looks best with the WhiteSur GTK Themes, which you can get here:</n>
+  <br>
   <a href="https://github.com/vinceliuice/WhiteSur-gtk-theme">
-    <img src="https://cdn.pling.com/cache/85x85-2/img/6/e/3/0/fada4d24285aea3004c357d630aefdb8653b.png" height="200>
+    <img src="https://cdn.pling.com/cache/85x85-2/img/6/e/3/0/fada4d24285aea3004c357d630aefdb8653b.png" height="100>
   </a>
 
 </p>
- 
-This extension looks best with the WhiteSur GTK Themes.  You can get them here:  
-[<img src="https://cdn.pling.com/cache/85x85-2/img/6/e/3/0/fada4d24285aea3004c357d630aefdb8653b.png" height = "100">](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
 **You don't need the LICENSE and README if you install from the repository**
 
