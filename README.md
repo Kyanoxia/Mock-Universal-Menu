@@ -3,8 +3,9 @@ Mock Universal Menu is a Gnome-Shell extension that creates... well, a mock univ
 It looks a little something like this:  
 
 <p align="center">
-  <img src="https://extensions.gnome.org/extension-data/screenshots/screenshot_4111_SJLlCtx.png">  
-  ey ey ey
+  <img src="https://extensions.gnome.org/extension-data/screenshots/screenshot_4111_SJLlCtx.png">
+  
+  test
 </p>
  
 [<img src="https://micheleg.github.io/dash-to-dock/media/get-it-on-ego.png" height="100">](https://extensions.gnome.org/extension/4111/mock-universal-menu/)
