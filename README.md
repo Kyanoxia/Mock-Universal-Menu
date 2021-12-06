@@ -12,7 +12,7 @@ It looks a little something like this:</n><br>
   <n>Mock Universal Menu looks best with the WhiteSur GTK Themes, which you can get here:</n>
   <br>
   <a href="https://github.com/vinceliuice/WhiteSur-gtk-theme">
-    <img src="https://cdn.pling.com/cache/85x85-2/img/6/e/3/0/fada4d24285aea3004c357d630aefdb8653b.png" height="100>
+    <img src="https://cdn.pling.com/cache/85x85-2/img/6/e/3/0/fada4d24285aea3004c357d630aefdb8653b.png" height="100">
   </a>
 
 </p>
