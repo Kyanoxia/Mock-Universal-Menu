@@ -14,7 +14,7 @@ It looks a little something like this:</n><br>
   <b>Mock Universal Menu looks best with the WhiteSur GTK Themes.<br>You can get them here:</b>
   <br>
   <a href="https://github.com/vinceliuice/WhiteSur-gtk-theme">
-    <img src="https://cdn.pling.com/cache/85x85-2/img/6/e/3/0/fada4d24285aea3004c357d630aefdb8653b.png" height="100">
+    <img src="[https://cdn.pling.com/cache/85x85-2/img/6/e/3/0/fada4d24285aea3004c357d630aefdb8653b.png](https://images.pling.com/cache/85x85-2/img/00/00/32/24/44/1403328/fada4d24285aea3004c357d630aefdb8653b.png)" height="100">
   </a>
   <br><br><br><br><br><br>
   <b>You don't need the LICENSE and README if you install from the repository</b>
