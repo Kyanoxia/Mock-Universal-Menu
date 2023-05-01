@@ -1,10 +1,10 @@
 # Archival Message
 Friends,
 
-  This repository will be archived for a few years until I get a linux-capable machine up and running again.  Until then, I'll have to continue work on my MacBook Pro (M2, Apple Silicon prevents dual-booting AFAIK), working with web technologies and other such stuff.  I do hope to see you there, and do feel free to fork this repo!
+This repository will be archived for a few years until I get a linux-capable machine up and running again.  Until then, I'll have to continue work on my MacBook Pro (M2, Apple Silicon prevents dual-booting AFAIK), working with web technologies and other such stuff.  I do hope to see you there, and do feel free to fork this repo!
   
-  I'm not dead yet!
-      Spektacle
+I'm not dead yet!  
+~~~~Spektacle~~~~
 
 # Mock Universal Menu
 <p align="center">
